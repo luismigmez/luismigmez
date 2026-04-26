@@ -2,7 +2,7 @@
 
 ### Software Developer | Backend Specialist | Software Engineer
 
-I am a Software Developer based in Asturias, Spain, focused on building scalable, efficient, and maintainable backend systems. Currently, I work at **Seresco**, contributing to enterprise applications within the Java/Spring ecosystem.
+I am a Software Developer based in Asturias, Spain, focused on building scalable, efficient, and maintainable backend systems. Currently, I contribute to enterprise applications within the Java/Spring ecosystem.
 
 - 🔭 **Currently working on:** Enterprise solutions with Java, Spring Framework, and JSF.
 - 🌱 **Learning:** Microservices architecture, Cloud computing, and advanced SQL optimization.
@@ -13,6 +13,7 @@ I am a Software Developer based in Asturias, Spain, focused on building scalable
 **Backend & Databases**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-JavaServer%20Faces-0073B1?style=for-the-badge&logo=java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
