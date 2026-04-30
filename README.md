@@ -54,14 +54,14 @@ I am a Software Developer focused on building **scalable, efficient, and maintai
 
 ### 📫 Let's Connect
 <div align="center">
+  <a href="https://luismigmez.github.io/luismigmez/Resume_Luis_Miguel_Gomez_Software_Developer_EN.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-E02424?style=flat&logo=adobeacrobatreader&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/luis-miguel-gomez-del-cueto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luismigmez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/luismiigomezz" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=luismigmez&color=blue&style=flat-square" alt="Views" />
