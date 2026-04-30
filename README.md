@@ -44,6 +44,11 @@ I am a Software Developer focused on building **scalable, efficient, and maintai
 
 ---
 
+### 🐍 My Contribution Snake
+![snake github game](https://raw.githubusercontent.com/luismigmez/luismigmez/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📫 Let's Connect
 <div align="center">
   <a href="https://linkedin.com/in/luis-miguel-gomez-del-cueto" target="_blank">
