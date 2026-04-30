@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm Luis Miguel Gómez 👋</h1>
-  <p><strong>Software Engineer | Backend Specialist</strong></p>
+  <p><strong>Software Engineer | Software Developer</strong></p>
   <p>📍 Based in Asturias, Spain</p>
 </div>
 
