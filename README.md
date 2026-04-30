@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 width="300px" >Hi, I'm Luis Miguel Gómez 👋</h1>
+  <h1>Hi, I'm Luis Miguel Gómez 👋</h1>
   <p><strong>Software Engineer | Backend Specialist</strong></p>
   <p>📍 Based in Asturias, Spain</p>
 </div>
@@ -12,6 +12,7 @@ I am a Software Developer focused on building **scalable, efficient, and maintai
 
 - 🔭 **Currently working on:** Enterprise solutions with Java, Spring Framework, and JSF.
 - 🎓 **Education:** B.S. in Software Engineering from the **University of Oviedo**.
+- 🗣️ **Languages:** Spanish (Native) | English (Professional Working Proficiency)
 
 ---
 
@@ -36,16 +37,18 @@ I am a Software Developer focused on building **scalable, efficient, and maintai
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismigmez&show_icons=true&theme=github_dark_dimmed&rank_icon=github&border_radius=10" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismigmez&layout=compact&theme=github_dark_dimmed&border_radius=10" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luismigmez&show_icons=true&theme=github_dark_dimmed&rank_icon=github&border_radius=10" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismigmez&layout=compact&theme=github_dark_dimmed&border_radius=10" height="195px" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=luismigmez&theme=github_dark_dimmed&border_radius=10" height="165px" />
+  <img src="https://streak-stats.demolab.com/?user=luismigmez&theme=github_dark_dimmed&border_radius=10" height="180px" />
 </div>
 
 ---
 
 ### 🐍 My Contribution Snake
-![snake github game](https://raw.githubusercontent.com/luismigmez/luismigmez/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/luismigmez/luismigmez/output/github-contribution-grid-snake.svg" alt="snake github game" />
+</div>
 
 ---
 
