@@ -37,10 +37,10 @@ I am a Software Developer focused on building **scalable, efficient, and maintai
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismigmez&show_icons=true&theme=github_dark_dimmed&rank_icon=github&border_radius=10" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismigmez&layout=compact&theme=github_dark_dimmed&border_radius=10" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luismigmez&show_icons=true&theme=github_dark_dimmed&rank_icon=github&border_radius=10" height="195px" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismigmez&theme=github_dark_dimmed&border_radius=10&hide_title=false" height="195px" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=luismigmez&theme=github_dark_dimmed&border_radius=10" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=luismigmez&theme=github_dark_dimmed&border_radius=10" height="180px" alt="Streak" />
 </div>
 
 ---
